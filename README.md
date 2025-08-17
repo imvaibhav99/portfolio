@@ -114,7 +114,7 @@ const projects = [
 1. Connect your GitHub repository to Render
 2. Create a new Web Service
 3. Use the following settings:
-   - **Build Command**: `npm install --legacy-peer-deps && npm run build`
+   - **Build Command**: `npm install && npm run build`
    - **Start Command**: `npm start`
    - **Environment**: Node.js
 
